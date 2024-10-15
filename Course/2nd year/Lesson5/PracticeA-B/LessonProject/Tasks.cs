@@ -10,6 +10,9 @@ namespace LessonProject
             Console.WriteLine("РЕШЕНИЕ:");
 
             //решайте задачу здесь
+            int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+            int N = 3;
+            int[] arr = new int[N];
 
             //не выходя за пределы
         }
@@ -23,7 +26,8 @@ namespace LessonProject
             Console.WriteLine("РЕШЕНИЕ:");
 
             //решайте задачу здесь
-
+                int[] arr1 = new int[10];
+                for (int i = 0, i < arr1.Length, )
             //не выходя за пределы
         }
     }
